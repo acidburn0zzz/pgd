@@ -1,7 +1,7 @@
 biopython
 django-registration
 south
-django==1.6
+django==2.2.28
 selenium
 MySQL-python
 numpy
